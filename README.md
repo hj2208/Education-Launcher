@@ -6,3 +6,6 @@ Stored and runs locally (all games + launcher)
 Optionally, use the website here:
 # Pre-Installed with:
 - ## **Eaglercraft 1.8** ##
+- ## **Super Mario 64** ##
+- ## **2048** ##
+- ## **Cookie Clicker** ##
