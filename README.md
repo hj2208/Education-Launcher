@@ -9,3 +9,10 @@ Optionally, use the website here:
 - ## **Super Mario 64** ##
 - ## **2048** ##
 - ## **Cookie Clicker** ##
+- ## **Wordle** ##
+- ## **SWERVE** ##
+- ## **1V1.LOL** ##
+- ## **Slope** ##
+- ## **Smash Karts** ##
+- ## **Google Baseball** ##
+- ## **Stack** ##
